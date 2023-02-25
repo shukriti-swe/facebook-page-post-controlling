@@ -1,0 +1,5 @@
+https://wd.rssoft.win:8443/
+user:wdrs
+pass:?eZjp702
+
+address:http://wd.rssoft.win/matchmade/
